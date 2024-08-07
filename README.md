@@ -1,5 +1,4 @@
 
-```markdown
 # Scara Robot Simulation and Control using ROS and MATLAB
 
 ## Overview
@@ -21,6 +20,7 @@ This project simulates and controls a SCARA (Selective Compliance Assembly Robot
 
 ## Installation
 1. Clone the Repository
+
     ```sh
     git clone https://github.com/bethlehem-dagnachew/scara-robot-simulation-and-control-using-ros.git
     cd scara-robot-simulation-and-control-using-ros
@@ -52,4 +52,3 @@ This project simulates and controls a SCARA (Selective Compliance Assembly Robot
 Contributions are welcome! Please submit a pull request or open an issue for discussion.
 
 
-```
